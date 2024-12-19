@@ -21,11 +21,11 @@ export const AboutSection = () => {
           </p>
         </motion.div>
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-2 mt-8">
+      <div className="grid grid-cols-2 gap-2 mt-8">
         <img
           src={image3}
           alt=""
-          className="h-full md:row-span-2 rounded-xl"
+          className="h-full row-span-2 rounded-xl"
         />
         <img
           src={image2}
