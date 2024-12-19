@@ -25,7 +25,7 @@ export const AboutSection = () => {
         <img
           src={image3}
           alt=""
-          className="h-full row-span-2 rounded-xl"
+          className="row-span-2 rounded-xl"
         />
         <img
           src={image2}
