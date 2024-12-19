@@ -10,7 +10,7 @@ export const CallToAction = () => {
           whileInView={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.5 }}
           viewport={{ once: true }}
-          className="bg-white border flex flex-col items-center justify-center border-yellow-100 mx-auto rounded-2xl"
+          className="bg-white px-6 border flex flex-col items-center justify-center border-yellow-100 mx-auto rounded-2xl"
         >
           <h2 className="text-3xl font-bold text-charcoal mt-10">
             Ready to Transform Your Business?
